@@ -41,7 +41,7 @@
   <img src="https://i.postimg.cc/mDxKXRdB/Clothing-Shop.png" alt="Portfolio image"/>
 </p>
 
-I present to you the design of an ecommerce shop where you can buy honey related products and of course honey itself! I didn't have any 'real' database so I used firebase, where I just put some sample items. This project was created as a training project in my current company's internal training program called React Academy. In the project i have learned a lot, i am sure that there some minor bugs that i have not seen so please let me know so i can become better developer! Thanks in advance!
+I present to you the design of an ecommerce shop where you can buy any clothes that we have in stock :D In this project i wanted to make website that will be similar to the actual shop website. This was my first project , it is predecessor of my other project named 'Pszczeli Plaster'. This project was very fruitful in terms of learning new skills. I hope you are enjoying it! If you have any advice let me know.
 
 Here are some functionalities:
 * You can buy things anonymousli
