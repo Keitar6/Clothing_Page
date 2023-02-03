@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href ='https://www.statkiewiczmateusz.pl'>
+  <a href ='https://www.clothing-shop.statkiewiczmateusz.pl/'>
     <img src="https://i.postimg.cc/J45949pz/monarch.png" alt="Logo" width="120" height="120">
   </a>
   <h3 align="center">Portfolio</h3>
